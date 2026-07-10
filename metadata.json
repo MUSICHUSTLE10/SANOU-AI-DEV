@@ -1,0 +1,5 @@
+{
+  "name": "Sanou AI Développeur Universel",
+  "description": "Une application web qui utilise l'API Gemini pour comprendre des prompts en langage naturel et générer des projets de code complets dans n'importe quel langage de programmation, avec un aperçu en direct et la possibilité de télécharger les fichiers.",
+  "requestFramePermissions": []
+}
